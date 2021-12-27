@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shi Wang"
+  name             : "Shi Wang at <a href=\"http://www.ict.ac.cn\">ICT/CAS</a>"
   avatar           : "profile.png"
   bio              : "KG / NLP / CC"
   location         : "Beijing, China"
-  employer         : " <a href=\"http://www.ict.ac.cn\">ICT/CAS</a>"
+  employer         : ""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=IAnjAfcAAAAJ"
   email            : "wangshi@ict.ac.cn"
