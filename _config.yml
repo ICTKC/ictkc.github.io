@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Shi Wang"
 title_separator          : "-"
 name                     : &name "Shi Wang"
-description              : &description "personal description"
+description              : &description "I am Shi Wang, Associate Professor from <a href=\"http://www.ict.ac.cn\">Institute of Computing Technology, Chinese Academy of Sciences</a>, Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing and cognitive computing. Specifically, I focus on integrateing symbolic knowledge and deep learning to realize dual process cognitive computing in natural language reasoning applications. My papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences."
 url                      : https://ictkc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ictkc/ictkc.github.io"
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : &twitter
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
