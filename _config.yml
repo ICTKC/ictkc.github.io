@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shi Wang"
+title                    : "Shi Wang / -"
 title_separator          : "-"
 name                     : &name "Shi Wang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shi Wang"
   avatar           : "profile.png"
-  bio              : "Associate Professor at <a href="http://www.ict.ac.cn">Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) </a>"
+  bio              : "Associate Professor at <a href=\"http://www.ict.ac.cn\">Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS) </a>"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
