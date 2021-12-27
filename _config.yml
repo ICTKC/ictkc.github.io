@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shi Wang / -"
+title                    : "Shi Wang"
 title_separator          : "-"
 name                     : &name "Shi Wang"
 description              : &description "personal description"
