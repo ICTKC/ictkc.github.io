@@ -19,15 +19,12 @@ Research interests
 
 * Knowledge Graph
 --
-Knowledge Graph is ...
 
 * Natural Language Processing
 --
-Natural Language Processing is ...
 
 * Neural-Symbolic Dual-Process Computing
 --
-Neural-Symbolic Dual-Process Computing is ...
 
 Education
 ==
