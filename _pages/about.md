@@ -19,12 +19,15 @@ Research interests
 
 * Knowledge Graph
 --
+My research on knowledge graph focuses on automatically knowledge discovery from unstructured/simi-structured data such as text, wiki pages or heterogeneous tables. For example, we extract particular person/time/location and their relationships from newspapers. Knowledge graph is the fundamental resource for many nlp and other intelligent applications, or even considered to be the bottleneck of true AI.
 
 * Natural Language Processing
 --
+My research on nlp focuses on dialogue system, multi-hop machine reading comprehension, and text generation. For example, we build task-oriented chat-bot using knowledge graph or text, or automatically write financial report using sale tables. NLP is one of the major field in AI and widely used in information retriving, recommandation, online advertising, and many other products.
 
 * Neural-Symbolic Dual-Process Computing
 --
+Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. Does human begings learn really from big data? We believe integrating symbolic knowledge graph or logic rules with vectorized model in a dual-process way is a closer simulation with human brains. It is a frontier research direction in intelligence science domain.
 
 Education
 ==
