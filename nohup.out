@@ -1088,3 +1088,63 @@ Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_
        Jekyll Feed: Generating feed for posts
                     ...done in 3.167949 seconds.
                     
+      Regenerating: 1 file(s) changed at 2022-01-01 08:00:47
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.1342 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:00:51
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.19803 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:02:46
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.063351 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:03:00
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.037285 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:03:19
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.046562 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:03:25
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.05392 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:04:23
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.077364 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 08:05:53
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.112478 seconds.
+                    
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.889 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2022-01-01 08:06:50
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.069149 seconds.
+                    

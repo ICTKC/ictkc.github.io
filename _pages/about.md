@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, this is Shi Wang ~"
+title: "Hi ~"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
+This is Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
 
 I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
 
@@ -28,12 +28,6 @@ My research on nlp focuses on dialogue system, multi-hop machine reading compreh
 * Neural-Symbolic Dual-Process Computing
 --
 Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. Does human begings learn really from big data? We believe integrating symbolic knowledge graph or logic rules with vectorized model in a dual-process way is a closer simulation with human brains. It is a frontier research direction in intelligence science domain.
-
-Education
-==
-- 1998-2002, B.Sc., Xidian University
-- 2002-2005, M.Sc., Shandong University
-- 2005-2009, Ph.D., Institute of Computing Technology, Chinese Academy of Sciences
 
 Contact
 ==
