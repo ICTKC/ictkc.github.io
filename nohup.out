@@ -1169,3 +1169,217 @@ Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_
        Jekyll Feed: Generating feed for posts
                     ...done in 3.078218 seconds.
                     
+      Regenerating: 1 file(s) changed at 2022-01-01 08:19:22
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.229231 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2022-01-01 08:19:25
+                    nohup.out
+                    run_local.sh
+       Jekyll Feed: Generating feed for posts
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+                    ...done in 3.104516 seconds.
+                    
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.345 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+#<Thread:0x000000011a6b8530@/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:90 run> terminated with exception (report_on_exception is true):
+/Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_server'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:95:in `block (2 levels) in start'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run_machine'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:93:in `block in start'
+jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
+      Regenerating: 1 file(s) changed at 2022-01-01 08:19:34
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.066913 seconds.
+                    
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.586 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2022-01-01 22:54:39
+                    _portfolio/students.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.145847 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:54:52
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.052139 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:54:57
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.156105 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:00
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.063078 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2022-01-01 22:55:12
+                    _backup/students.md
+                    _portfolio/students.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.054352 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:23
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.002322 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:27
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.005459 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:31
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.978609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:47
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.99965 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:51
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.937065 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:55:59
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.061323 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:56:19
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.047101 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:56:38
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.051916 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:56:41
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.959943 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2022-01-01 22:56:45
+                    run_local.sh
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.239366 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:56:49
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    ...done in 3.09745 seconds.
+                    
+                    done in 4.191 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+#<Thread:0x000000010bb9ed60@/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:90 run> terminated with exception (report_on_exception is true):
+/Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_server'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:95:in `block (2 levels) in start'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run_machine'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:93:in `block in start'
+jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
+      Regenerating: 1 file(s) changed at 2022-01-01 22:56:54
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.077423 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:57:48
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.05162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:57:51
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.138757 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2022-01-01 22:57:54
+                    run_local.sh
+                    nohup.out
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+       Jekyll Feed: Generating feed for posts
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    ...done in 3.28537 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:57:57
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    done in 4.998 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+#<Thread:0x0000000130f963d0@/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:90 run> terminated with exception (report_on_exception is true):
+/Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_server'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:95:in `block (2 levels) in start'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run_machine'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:93:in `block in start'
+jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
+                    ...done in 3.431324 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:58:01
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.371321 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:58:04
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.091559 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-01 22:58:42
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.949188 seconds.
+                    

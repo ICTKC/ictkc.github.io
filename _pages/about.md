@@ -29,6 +29,12 @@ My research on nlp focuses on dialogue system, multi-hop machine reading compreh
 --
 Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. Does human begings learn really from big data? We believe integrating symbolic knowledge graph or logic rules with vectorized model in a dual-process way is a closer simulation with human brains. It is a frontier research direction in intelligence science domain.
 
+Project
+==
+* "WO"
+--
+A intelligent agent which learn from multimodal enviroment and can talk just like "YOU".
+
 Contact
 ==
 - Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing, China
