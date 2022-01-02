@@ -1391,3 +1391,50 @@ jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
       Regenerating: 1 file(s) changed at 2022-01-02 03:35:16
                     fundings/index.html
        Jekyll Feed: Generating feed for posts
+                    ...done in 3.050828 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 03:37:28
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.017475 seconds.
+                    
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin20/rbconfig.rb:229: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.608 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2022-01-02 07:21:49
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.142461 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 07:23:35
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.132113 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 07:24:25
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.035127 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 07:24:45
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.000332 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 07:25:37
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.078683 seconds.
+                    
