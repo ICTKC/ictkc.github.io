@@ -33,7 +33,7 @@ Project
 ==
 * "WO"
 --
-A intelligent agent which learn from multimodal enviroment and can talk just like "YOU".
+A intelligent agent which learn from multimodal enviroment and can talk just like "NI".
 
 Contact
 ==
