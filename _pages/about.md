@@ -29,6 +29,10 @@ My research in nlp focuses on dialogue system, multi-hop machine reading compreh
 --
 Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. We believe integrating symbolic knowledge graph and logic rules with vectorized deep learning model in a dual-process way is a better simulation. Research topics include symbolic knowledge representation, dual-process NN structure, and knowledge enhanced pre-training, etc. 
 
+```
+WO: hello world ~
+```
+
 Contact
 ==
 Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing, China
