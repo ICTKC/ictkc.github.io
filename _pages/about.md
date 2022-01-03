@@ -4,8 +4,8 @@ title: "WO"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  /about/
+  /about.html
 ---
 
 is Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
@@ -27,16 +27,11 @@ My research in nlp focuses on dialogue system, multi-hop machine reading compreh
 
 * Neural-Symbolic Dual-Process Computing
 --
-Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. We believe integrating symbolic knowledge graph and logic rules with vectorized deep learning model in a dual-process way is a better simulation. Topic includes symbolic knowledge representation, dual-process NN structure, and knowledge enhanced pre-training, etc. 
-
-```
-NI: hi
-WO: ?
-```
+Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. We believe integrating symbolic knowledge graph and logic rules with vectorized deep learning model in a dual-process way is a better simulation. Research topics include symbolic knowledge representation, dual-process NN structure, and knowledge enhanced pre-training, etc. 
 
 Contact
 ==
-- Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing, China
-- Email: wangshi@ict.ac.cn
+Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District, Beijing, China
+Email: wangshi@ict.ac.cn
 
 <a href='https://clustrmaps.com/site/1blxu'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=hk4_h3ymffeQbjmwcSfmyrLhYc8ac7ExrK5cV3K0JAw'/></a>
