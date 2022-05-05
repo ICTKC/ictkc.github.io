@@ -2734,3 +2734,196 @@ Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_
       Regenerating: 1 file(s) changed at 2022-01-02 23:04:36
                     nohup.out
        Jekyll Feed: Generating feed for posts
+                    ...done in 3.031178 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-01-02 23:04:46
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 3.025536 seconds.
+                    
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `getwd': Operation not permitted - getcwd (Errno::EPERM)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `block in pwd'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/monitor.rb:230:in `mon_synchronize'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:57:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:43:in `block in report'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:42:in `each'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:42:in `report'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:72:in `request_issue_report_for'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:50:in `log_error'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:109:in `rescue in with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:101:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `getwd': Operation not permitted - getcwd (Errno::EPERM)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `block in pwd'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/monitor.rb:230:in `mon_synchronize'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:57:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:239:in `search_up'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:137:in `print_major_deprecations!'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:27:in `ensure in start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:27:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:217:in `join': SIGTERM (SignalException)
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:217:in `boot_or_detach'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:71:in `process'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:54:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:43:in `block (2 levels) in init_with_program'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+	from /Library/Ruby/Gems/2.6.0/gems/jekyll-3.9.0/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/bin/jekyll:23:in `load'
+	from /usr/local/bin/jekyll:23:in `<top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:58:in `load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:58:in `kernel_load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:23:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:484:in `exec'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:31:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:25:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:489:in `materialize': Could not find commonmarker-0.17.13, racc-1.6.0, eventmachine-1.2.7, http_parser.rb-0.8.0, ffi-1.15.4, unf_ext-0.0.8 in any of the sources (Bundler::GemNotFound)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:190:in `specs'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:238:in `specs_for'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/runtime.rb:18:in `setup'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler.rb:151:in `setup'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/setup.rb:20:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/ui/shell.rb:136:in `with_level'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/ui/shell.rb:88:in `silence'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/setup.rb:20:in `<top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:56:in `require_relative'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:56:in `kernel_load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:23:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:484:in `exec'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:31:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:25:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+bundler: failed to load command: jekyll (/usr/local/bin/jekyll)
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:489:in `materialize': Could not find commonmarker-0.17.13, racc-1.6.0, eventmachine-1.2.7, http_parser.rb-0.8.0, ffi-1.15.4, unf_ext-0.0.8 in any of the sources (Bundler::GemNotFound)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:190:in `specs'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/definition.rb:238:in `specs_for'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/runtime.rb:18:in `setup'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler.rb:151:in `setup'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/setup.rb:20:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/ui/shell.rb:136:in `with_level'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/ui/shell.rb:88:in `silence'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/setup.rb:20:in `<top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:56:in `require_relative'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:56:in `kernel_load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:23:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:484:in `exec'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:31:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:25:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.039 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+dyld[84412]: Library not loaded: /opt/homebrew/opt/pcre2/lib/libpcre2-8.0.dylib
+  Referenced from: /opt/homebrew/Cellar/git/2.34.1/bin/git
+  Reason: tried: '/opt/homebrew/opt/pcre2/lib/libpcre2-8.0.dylib' (code signature in <521A97B3-5291-348A-98CF-5F3FA5ABB561> '/opt/homebrew/Cellar/pcre2/10.39/lib/libpcre2-8.0.dylib' not valid for use in process: system is shutting down), '/usr/local/lib/libpcre2-8.0.dylib' (no such file), '/usr/lib/libpcre2-8.0.dylib' (no such file), '/opt/homebrew/Cellar/pcre2/10.39/lib/libpcre2-8.0.dylib' (code signature in <521A97B3-5291-348A-98CF-5F3FA5ABB561> '/opt/homebrew/Cellar/pcre2/10.39/lib/libpcre2-8.0.dylib' not valid for use in process: system is shutting down), '/usr/local/lib/libpcre2-8.0.dylib' (no such file), '/usr/lib/libpcre2-8.0.dylib' (no such file)
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `getwd': Operation not permitted - getcwd (Errno::EPERM)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `block in pwd'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/monitor.rb:235:in `mon_synchronize'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:57:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/source/git/git_proxy.rb:172:in `git'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/source/git/git_proxy.rb:83:in `full_version'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:78:in `git_version'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:116:in `environment'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/env.rb:17:in `report'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:72:in `request_issue_report_for'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:50:in `log_error'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:109:in `rescue in with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:101:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `getwd': Operation not permitted - getcwd (Errno::EPERM)
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:58:in `block in pwd'
+	from /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/monitor.rb:235:in `mon_synchronize'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:57:in `pwd'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:239:in `search_up'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/shared_helpers.rb:137:in `print_major_deprecations!'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:27:in `ensure in start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:27:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
+/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:217:in `join': SIGTERM (SignalException)
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:217:in `boot_or_detach'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:71:in `process'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:54:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/liveserve.rb:43:in `block (2 levels) in init_with_program'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `block in execute'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `each'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in `execute'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in `go'
+	from /Library/Ruby/Gems/2.6.0/gems/mercenary-0.3.6/lib/mercenary.rb:19:in `program'
+	from /Library/Ruby/Gems/2.6.0/gems/jekyll-3.9.0/exe/jekyll:15:in `<top (required)>'
+	from /usr/local/bin/jekyll:23:in `load'
+	from /usr/local/bin/jekyll:23:in `<top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:58:in `load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:58:in `kernel_load'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli/exec.rb:23:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:484:in `exec'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor.rb:392:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:31:in `dispatch'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/vendor/thor/lib/thor/base.rb:485:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/cli.rb:25:in `start'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:48:in `block in <top (required)>'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/lib/bundler/friendly_errors.rb:103:in `with_friendly_errors'
+	from /Library/Ruby/Gems/2.6.0/gems/bundler-2.3.3/exe/bundle:36:in `<top (required)>'
+	from /usr/local/bin/bundle:23:in `load'
+	from /usr/local/bin/bundle:23:in `<main>'
