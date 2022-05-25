@@ -2,7 +2,7 @@
 title: "HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding"
 collection: publications
 permalink: /publication/22-dasfaa-shi
-excerpt: 'International Classification of Diseases (ICD) is a set of classification codes for medical records. Automated ICD coding, which assigns unique International Classification of Diseases codes with each medical record, is widely used recently for its efficiency and error-prone avoidance. However, there are challenges that remain such as heterogeneity, label unbalance, and complex relationships between ICD codes. In this work, we proposed a novel Bidirectional Hierarchy Framework (HieNet) to address the challenges.'
+excerpt: ''
 date: 2022-04-11
 venue: 'DASFAA 2022: International Conference on Database Systems for Advanced Applications'
 citation: 'Shi Wang, Daniel Tang, Luchen Zhang, Huilin Li, Ding Han: HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding. DASFAA (2) 2022: 523-539'
