@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EMNLP-18-Sun
 excerpt: ''
 date: 2018-10-29
-venue: 'Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP-18)'
+venue: 'EMNLP'
 citation: 'Xingwu Sun, Jing Liu, Yajuan Lyu, Wei He, Yanjun Ma, Shi Wang: Answer-focused and Position-aware Neural Question Generation. EMNLP 2018: 3930-3939'
 ---
 Abstract

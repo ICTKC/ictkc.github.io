@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/IJCNN-21-LiuYu
 excerpt: ''
 date: 2021-07-18
-venue: '2021 International Joint Conference on Neural Networks (IJCNN-21)'
+venue: 'IJCNN'
 citation: 'Yu Liu, Shi Wang, Kangli Zi, Jicun Li, Cungen Cao: Knowledge Enhanced Sequential Entity Linking. IJCNN 2021: 1-8'
 ---
 Abstract

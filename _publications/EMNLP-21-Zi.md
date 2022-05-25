@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EMNLP-21-zi
 excerpt: ''
 date: 2021-12-01
-venue: 'Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP-21)'
+venue: 'EMNLP'
 citation: 'Kangli Zi, Shi Wang, Yu Liu, Jicun Li, Yanan Cao, Cungen Cao: SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map. EMNLP (1) 2021: 403-415'
 ---
 Abstract
