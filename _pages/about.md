@@ -12,7 +12,7 @@ is Shi Wang, Associate Professor from [Institute of Computing Technology, Chines
 
 I am secretary general of CAAI intelligent science special committee (preparatory), member of TCM informatization professional committee, Beijing chronic disease big data professional committee. I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
 
-I welcome all undergraduate students who have solid foundation in computer science, mathematics, cognitive science, and brain neuroscience to accomplish practical and interesting research which can really change something. Feel free to contact me!
+I welcome all undergraduate students who have solid foundation in computer science or mathematics to accomplish practical and interesting research which can really change something. Feel free to contact me!
 
 Research interests
 ==
