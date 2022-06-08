@@ -3605,3 +3605,75 @@ jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
        Jekyll Feed: Generating feed for posts
                     ...done in 2.940536 seconds.
                     
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 3.748 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+[2022-06-07 21:05:08] ERROR `/images/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-06-07 21:05:32
+                    _layouts/single.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.809846 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-06-07 21:07:09
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.708606 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-06-07 21:07:13
+                    _includes/archive-single.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.781863 seconds.
+                    
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 3.658 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Frock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Frock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+#<Thread:0x000000013be6f140@/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:90 run> terminated with exception (report_on_exception is true):
+/Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_server'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:95:in `block (2 levels) in start'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run_machine'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:93:in `block in start'
+jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
+      Regenerating: 1 file(s) changed at 2022-06-07 21:07:34
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.701117 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-06-07 21:09:21
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.722808 seconds.
+                    
+[2022-06-07 21:11:16] ERROR bad URI `$Ù\x03i‡:ú¶Õ\x13(\x19''.
+[2022-06-07 21:11:16] ERROR bad URI `×—œ\x0Eqù‘º>2ˆÉÒÆíÀ\x13¬\x04ØgoÔ£h\x7Fdÿ¤òº­\x00,šš\x13\x01\x13\x02\x13\x03À,À+Ì©À0À/Ì¨À'.
+[2022-06-07 21:11:16] ERROR bad Request-Line `\x16\x03\x01\x00}\x01\x00\x00y\x03\x01qM5-šÎ\vÇ"å~½\x03´\x05¢(©-øÂG8IÜ\rªÒRª]þ\x00\x00\x14À'.
+[2022-06-07 21:11:16] ERROR bad Request-Line `\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03®ÅÁòª›ßFhPÀkŸÿG\föá*9]é²\x1E¦\x05Î\x0E\e±¯\x00 \x04²\x7FŒX“ÎÔ\bâã\x02ýàõ\x16ñÌ;\eGë5F\eú{wnArÙ\x00*ŠŠ\x13\x01\x13\x02\x13\x03À,À+Ì©À0À/Ì¨À'.
+[2022-06-07 21:11:16] ERROR bad Request-Line `\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÝN“ä(gÙ3ËO&´r©Nª˜ÑÃ'.
+[2022-06-07 21:11:16] ERROR bad Request-Line `\x16\x03\x01\x00}\x01\x00\x00y\x03\x01\x00\aEN(„\x06\x19%£å\x04lG®‘>‘þæž‡™UO\x00}Ëlnç!\x00\x00\x14À'.
+      Regenerating: 1 file(s) changed at 2022-06-07 21:13:33
+                    _includes/archive-single.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.817625 seconds.
+                    
