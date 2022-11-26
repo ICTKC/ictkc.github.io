@@ -33,7 +33,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "gh-pages" # "", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  students:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _students
   - scope:
       path: ""
-      type: portfolio
+      type: students
     values:
       layout: single
       author_profile: true
