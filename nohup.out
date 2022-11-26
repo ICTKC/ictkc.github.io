@@ -844,3 +844,43 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
 [2022-11-26 01:37:43] ERROR `/images/favicon-96x96.png' not found.
 [2022-11-26 01:37:43] ERROR `/images/android-chrome-192x192.png' not found.
 [2022-11-26 01:37:43] ERROR `/images/favicon-16x16.png' not found.
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 6.016 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 6.223 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2022-11-26 01:50:51
+                    students/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.873728 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-11-26 01:51:02
+                    fundings/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.729047 seconds.
+                    
