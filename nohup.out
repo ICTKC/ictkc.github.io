@@ -909,3 +909,11 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
        Jekyll Feed: Generating feed for posts
                     ...done in 2.740891 seconds.
                     
+[2022-11-26 02:05:12] ERROR `/group/' not found.
+[2022-11-26 02:05:20] ERROR `/group/' not found.
+[2022-11-26 02:05:27] ERROR `/group/' not found.
+      Regenerating: 3 file(s) changed at 2022-11-26 02:06:20
+                    nohup.out
+                    group/index.html
+                    students/index.html
+       Jekyll Feed: Generating feed for posts
