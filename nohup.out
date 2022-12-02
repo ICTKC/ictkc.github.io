@@ -939,3 +939,271 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
        Jekyll Feed: Generating feed for posts
                     ...done in 2.808836 seconds.
                     
+      Regenerating: 1 file(s) changed at 2022-12-01 21:54:21
+                    _publications/22-acl-jia的副本.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.947108 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2022-12-01 21:54:32
+                    _publications/22-aacl-zhangge.md
+                    _publications/22-acl-jia的副本.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.778531 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:54:52
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.797076 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:55:18
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.794135 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:55:26
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.806425 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:55:46
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.752834 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:56:18
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.813594 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:56:49
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.802592 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:56:59
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.733997 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:57:05
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.675514 seconds.
+                    
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 4.373 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+#<Thread:0x0000000136b64608@/Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:90 run> terminated with exception (report_on_exception is true):
+/Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_tcp_server': no acceptor (port is in use or requires root privileges) (RuntimeError)
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:531:in `start_server'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:95:in `block (2 levels) in start'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run_machine'
+	from /Library/Ruby/Gems/2.6.0/gems/eventmachine-1.2.7/lib/eventmachine.rb:195:in `run'
+	from /Library/Ruby/Gems/2.6.0/gems/hawkins-2.0.5/lib/hawkins/websockets.rb:93:in `block in start'
+jekyll 3.9.0 | Error:  no acceptor (port is in use or requires root privileges)
+      Regenerating: 1 file(s) changed at 2022-12-01 21:57:32
+                    nohup.out
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.954028 seconds.
+                    
+[2022-12-01 21:57:35] ERROR Errno::ECONNRESET: Connection reset by peer @ io_fillbuf - fd:19 
+	/Library/Ruby/Gems/2.6.0/gems/webrick-1.7.0/lib/webrick/httpserver.rb:82:in `eof?'
+	/Library/Ruby/Gems/2.6.0/gems/webrick-1.7.0/lib/webrick/httpserver.rb:82:in `run'
+	/Library/Ruby/Gems/2.6.0/gems/webrick-1.7.0/lib/webrick/server.rb:310:in `block in start_thread'
+      Regenerating: 1 file(s) changed at 2022-12-01 21:58:42
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.856086 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 21:59:29
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.806948 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:01:58
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.925173 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:02:12
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.836151 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:02:34
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.792229 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:03:34
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.887654 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:04:02
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.828525 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:04:27
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.814979 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:04:32
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.717864 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:04:40
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.798329 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:00
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.834172 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:15
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.847834 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:21
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.722781 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:31
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.892547 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:42
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.796123 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:47
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.76162 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:51
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.774759 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:05:58
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.766796 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:21
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.805564 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:24
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.738799 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:30
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.755404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:41
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.797667 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:46
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.75147 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:49
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.75886 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:06:59
+                    _publications/22-aacl-zhangge.md
+[31m             Error: YAML Exception reading /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_publications/22-aacl-zhangge.md: (<unknown>): control characters are not allowed at line 1 column 1[0m
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.779735 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:07:22
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.817988 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:07:54
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.818295 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:08:11
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.792212 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:08:23
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.812617 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:08:55
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.833609 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:09:02
+                    _publications/22-aacl-zhangge.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.824126 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:15:41
+                    _layouts/single.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.832805 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2022-12-01 22:16:11
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.976792 seconds.
+                    
