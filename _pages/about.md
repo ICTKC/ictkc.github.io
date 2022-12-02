@@ -10,7 +10,7 @@ redirect_from:
 
 is Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
 
-I am secretary general of CAAI intelligent science special committee (preparatory), member of TCM informatization professional committee, Beijing chronic disease big data professional committee. I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
+I am vice secretary general of Chinese Association for Artificial Intelligence(CAAI) Mind Computation Committee, member of TCM informatization professional committee, Beijing chronic disease big data professional committee. I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
 
 I welcome all undergraduate students who have solid foundation in computer science or mathematics to accomplish practical and interesting research which can really change something. Feel free to contact me!
 
