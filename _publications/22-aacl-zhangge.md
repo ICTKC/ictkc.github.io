@@ -1,10 +1,10 @@
 ---
-title: "HERB: Measuring Hierarchical Regional Bias in Pre-trained Language Models"
+title: "[13] HERB: Measuring Hierarchical Regional Bias in Pre-trained Language Models"
 collection: publications
 permalink: /publication/22-aacl-zhangge
 excerpt: ''
 date: 2022-12-01
-venue: 'AACL (Findings)'
+venue: 'AACL'
 citation: 'Yizhi Li, Ge Zhang, Bohao Yang, Chenghua Lin, Anton Ragni, Shi Wang, and Jie Fu: HERB - Measuring Hierarchical Regional Bias in Pre-trained Language Models. In AACL-IJCNLP 2022: 334-346.'
 ---
 Abstract

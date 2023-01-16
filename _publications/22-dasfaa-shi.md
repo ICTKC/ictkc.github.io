@@ -1,10 +1,10 @@
 ---
-title: "HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding"
+title: "[12] HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding"
 collection: publications
 permalink: /publication/22-dasfaa-shi
 excerpt: ''
 date: 2022-04-11
-venue: 'DASFAA'
+venue: 'DASFAA (CCF-B)'
 citation: 'Shi Wang, Daniel Tang, Luchen Zhang, Huilin Li, Ding Han: HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding. DASFAA (2) 2022: 523-539'
 ---
 Abstract

@@ -1,10 +1,10 @@
 ---
-title: "Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences"
+title: "[6] Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences"
 collection: publications
 permalink: /publication/AAAI-21-Jia
 excerpt: ''
 date: 2021-05-18
-venue: 'AAAI'
+venue: 'AAAI (CCF-A)'
 citation: 'Ruipeng Jia, Yanan Cao, Haichao Shi, Fang Fang, Pengfei Yin, Shi Wang: Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences. AAAI 2021: 13134-13142'
 ---
 Abstract

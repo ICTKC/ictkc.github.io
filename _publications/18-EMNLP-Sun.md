@@ -1,10 +1,10 @@
 ---
-title: "Answer-focused and Position-aware Neural Question Generation"
+title: "[1] Answer-focused and Position-aware Neural Question Generation"
 collection: publications
 permalink: /publication/EMNLP-18-Sun
 excerpt: ''
 date: 2018-10-29
-venue: 'EMNLP'
+venue: 'EMNLP (CCF-B)'
 citation: 'Xingwu Sun, Jing Liu, Yajuan Lyu, Wei He, Yanjun Ma, Shi Wang: Answer-focused and Position-aware Neural Question Generation. EMNLP 2018: 3930-3939'
 ---
 Abstract
