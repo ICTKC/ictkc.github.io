@@ -585,3 +585,20 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
        Jekyll Feed: Generating feed for posts
                     ...done in 2.614555 seconds.
                     
+      Regenerating: 1 file(s) changed at 2023-01-17 09:41:02
+                    group/pics/22_jindawei.jpeg
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.899357 seconds.
+                    
+      Regenerating: 2 file(s) changed at 2023-01-17 09:41:22
+                    group/pics/21_jindawei.jpeg
+                    group/pics/22_jindawei.jpeg
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.62278 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-01-17 09:41:52
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.666775 seconds.
+                    
+[2023-01-17 09:41:55] ERROR `/group/pics/21_zhangdawei.jpeg' not found.
