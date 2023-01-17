@@ -1,5 +1,5 @@
 ---
-title: "[3] HIN: Hierarchical Inference Network for Document-Level Relation Extraction (BEST PAPER AWARD)"
+title: "HIN: Hierarchical Inference Network for Document-Level Relation Extraction (BEST PAPER AWARD)"
 collection: publications
 permalink: /publication/PAKDD-20-TangHengzhu
 excerpt: ''

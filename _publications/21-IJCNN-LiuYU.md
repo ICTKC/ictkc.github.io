@@ -1,5 +1,5 @@
 ---
-title: "[7] Knowledge Enhanced Sequential Entity Linking"
+title: "Knowledge Enhanced Sequential Entity Linking"
 collection: publications
 permalink: /publication/IJCNN-21-LiuYu
 excerpt: ''

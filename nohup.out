@@ -403,3 +403,54 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
        Jekyll Feed: Generating feed for posts
                     ...done in 2.610864 seconds.
                     
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-180x180.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-152x152.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-144x144.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-120x120.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-114x114.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-76x76.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-72x72.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-60x60.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/apple-touch-icon-57x57.png' not found.
+[2023-01-16 04:46:59] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2023-01-16 04:46:59] ERROR `/apple-touch-icon.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/favicon-96x96.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/favicon-32x32.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/favicon-16x16.png' not found.
+[2023-01-16 04:46:59] ERROR `/images/favicon.ico' not found.
+[2023-01-16 04:46:59] ERROR `/favicon.ico' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-180x180.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-152x152.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-144x144.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-120x120.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-114x114.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-76x76.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-72x72.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-60x60.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/apple-touch-icon-57x57.png' not found.
+[2023-01-16 04:47:09] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2023-01-16 04:47:09] ERROR `/apple-touch-icon.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/favicon-96x96.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/favicon-32x32.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/favicon-16x16.png' not found.
+[2023-01-16 04:47:09] ERROR `/images/favicon.ico' not found.
+[2023-01-16 04:47:09] ERROR `/favicon.ico' not found.
+      Regenerating: 13 file(s) changed at 2023-01-16 19:19:36
+                    _publications/20-PAKDD-TangHengzhu.md
+                    _publications/21-ACL-Jia.md
+                    _publications/21-AAAI-Jia.md
+                    _publications/21-EMNLP-Sun.md
+                    _publications/22-aacl-zhangge.md
+                    _publications/20-WWW-FangZheng.md
+                    _publications/21-EMNLP-Zi.md
+                    _publications/18-EMNLP-Sun.md
+                    _publications/20-EMNLP-Jia.md
+                    _publications/22-dasfaa-shi.md
+                    _publications/21-ICASSP-Tang.md
+                    _publications/21-IJCNN-LiuYU.md
+                    _publications/22-acl-jia.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.651272 seconds.
+                    

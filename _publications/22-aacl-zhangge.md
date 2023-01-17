@@ -1,5 +1,5 @@
 ---
-title: "[13] HERB: Measuring Hierarchical Regional Bias in Pre-trained Language Models"
+title: "HERB: Measuring Hierarchical Regional Bias in Pre-trained Language Models"
 collection: publications
 permalink: /publication/22-aacl-zhangge
 excerpt: ''
