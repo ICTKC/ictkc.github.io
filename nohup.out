@@ -454,3 +454,36 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
        Jekyll Feed: Generating feed for posts
                     ...done in 2.651272 seconds.
                     
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-180x180.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-152x152.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-144x144.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-120x120.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-114x114.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-76x76.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-72x72.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-60x60.png' not found.
+[2023-01-17 01:20:30] ERROR `/images/apple-touch-icon-57x57.png' not found.
+[2023-01-17 01:20:30] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2023-01-17 01:20:30] ERROR `/apple-touch-icon.png' not found.
+[2023-01-17 01:20:32] ERROR `/images/favicon-16x16.png' not found.
+[2023-01-17 01:20:32] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-01-17 01:20:32] ERROR `/images/favicon-96x96.png' not found.
+[2023-01-17 01:20:32] ERROR `/images/favicon-32x32.png' not found.
+      Regenerating: 1 file(s) changed at 2023-01-17 01:22:00
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.728014 seconds.
+                    
+[2023-01-17 01:22:03] ERROR `/group/pics/' not found.
+      Regenerating: 1 file(s) changed at 2023-01-17 01:22:09
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.627464 seconds.
+                    
+[2023-01-17 01:22:12] ERROR `/group/pics/22_yangjing.jpeg' not found.
+      Regenerating: 1 file(s) changed at 2023-01-17 01:22:48
+                    group/pics/22_yangjing.jpeg
+       Jekyll Feed: Generating feed for posts
+[2023-01-17 01:22:50] ERROR `/group/pics/22_yangjing.jpeg' not found.
+                    ...done in 2.68668 seconds.
+                    
