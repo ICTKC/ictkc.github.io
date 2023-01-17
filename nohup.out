@@ -602,3 +602,10 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
                     ...done in 2.666775 seconds.
                     
 [2023-01-17 09:41:55] ERROR `/group/pics/21_zhangdawei.jpeg' not found.
+[2023-01-17 09:42:09] ERROR `/group/pics/21_zhangdawei.jpeg' not found.
+      Regenerating: 1 file(s) changed at 2023-01-17 09:42:21
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+[2023-01-17 09:42:23] ERROR `/group/pics/21_zhangdawei.jpeg' not found.
+                    ...done in 2.7207 seconds.
+                    
