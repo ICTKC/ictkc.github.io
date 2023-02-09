@@ -697,3 +697,24 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
 [2023-01-18 20:38:53] ERROR `/group/pics/21_zhangdawei.png' not found.
 [2023-01-18 20:38:53] ERROR `/group/pics/21_jindawei.jpeg' not found.
 [2023-01-18 20:38:53] ERROR `/group/pics/21_zhangmanman.jpeg' not found.
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 3.732 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+[2023-02-09 05:26:05] ERROR `/images/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2023-02-09 05:27:48
+                    _pages/about.md
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.63561 seconds.
+                    
