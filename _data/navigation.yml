@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Achievements"
+    url: /achievements/
 
   - title: "Group"
     url: /group/
@@ -13,7 +13,7 @@ main:
     url: /teaching/    
   
   - title: "Fundings"
-    url: /../fundings/
+    url: /fundings/
         
   - title: "News"
     url: /year-archive/
