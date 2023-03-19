@@ -302,7 +302,7 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
+lang: zh
 
 # HTML Compression
 # - http://jch.penibelst.de/

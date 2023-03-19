@@ -26,7 +26,7 @@ title = ""
 
 
 for file in g:
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding='utf-8') as f:
         lines = f.read()
         if lines.find('location: "') > 1:
             loc_start = lines.find('location: "') + 11
