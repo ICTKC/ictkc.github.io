@@ -1596,3 +1596,276 @@ Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_c
 [2023-04-01 01:02:27] ERROR `/images/android-chrome-192x192.png' not found.
 [2023-04-01 01:02:27] ERROR `/images/favicon-96x96.png' not found.
 [2023-04-01 01:02:27] ERROR `/images/favicon-32x32.png' not found.
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 3.81 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+      Regenerating: 1 file(s) changed at 2023-04-22 19:04:08
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.730033 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:04:12
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+[2023-04-22 19:04:12] ERROR `/images/favicon.ico' not found.
+                    ...done in 2.748364 seconds.
+                    
+[2023-04-22 19:04:16] ERROR `/apple-touch-icon-precomposed.png' not found.
+[2023-04-22 19:04:16] ERROR `/apple-touch-icon.png' not found.
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin22/rbconfig.rb:21: warning: Insecure world writable dir /opt/homebrew/bin in PATH, mode 040777
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+            Source: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master
+       Destination: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+[33m   GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.[0m
+                    done in 3.745 seconds.
+ Auto-regeneration: enabled for '/Users/shi/Documents/Rock/homepage/ictkc.github.io-master'
+Configuration file: /Users/shi/Documents/Rock/homepage/ictkc.github.io-master/_config.yml
+ LiveReload Server: 127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+        LiveReload: Browser connected
+[2023-04-22 19:04:49] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-04-22 19:04:49] ERROR `/images/favicon-32x32.png' not found.
+[2023-04-22 19:04:49] ERROR `/images/favicon-96x96.png' not found.
+[2023-04-22 19:04:49] ERROR `/images/favicon-16x16.png' not found.
+      Regenerating: 1 file(s) changed at 2023-04-22 19:06:41
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.796552 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:07:06
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.734412 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:07:48
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.759562 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:07:54
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.839624 seconds.
+                    
+[2023-04-22 19:08:53] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-04-22 19:08:53] ERROR `/images/favicon-96x96.png' not found.
+[2023-04-22 19:08:53] ERROR `/images/favicon-16x16.png' not found.
+[2023-04-22 19:08:53] ERROR `/images/favicon-32x32.png' not found.
+[2023-04-22 19:08:54] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-04-22 19:08:54] ERROR `/images/favicon-96x96.png' not found.
+[2023-04-22 19:08:54] ERROR `/images/favicon-32x32.png' not found.
+[2023-04-22 19:08:54] ERROR `/images/favicon-16x16.png' not found.
+[2023-04-22 19:08:58] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-04-22 19:08:58] ERROR `/images/favicon-32x32.png' not found.
+[2023-04-22 19:08:58] ERROR `/images/favicon-96x96.png' not found.
+[2023-04-22 19:08:58] ERROR `/images/favicon-16x16.png' not found.
+      Regenerating: 1 file(s) changed at 2023-04-22 19:09:28
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.928745 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:09:35
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.834932 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:09:56
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.769447 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:10:17
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.759976 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:10:30
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.739776 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:10:36
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.733862 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:10:39
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.710278 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:12:05
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.834561 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:12:28
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.767277 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:13:13
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.777309 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:13:22
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.764496 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:13:38
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.768492 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:13:47
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.73453 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:13:51
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.735119 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:14:02
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.795311 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:14:21
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.769083 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:14:39
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.767845 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:14:44
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.747048 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:15:05
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.73976 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:15:14
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.762993 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:15:29
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.782018 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:15:42
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.771654 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:15:56
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.763056 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:16:26
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.75687 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:16:46
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.774782 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:21:50
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.792207 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:22:04
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.796027 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:22:30
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.742965 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:23:30
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.763306 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:23:37
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.731766 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:23:46
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.727632 seconds.
+                    
+[2023-04-22 19:23:59] ERROR `/images/android-chrome-192x192.png' not found.
+[2023-04-22 19:23:59] ERROR `/images/favicon-32x32.png' not found.
+[2023-04-22 19:23:59] ERROR `/images/favicon-96x96.png' not found.
+[2023-04-22 19:23:59] ERROR `/images/favicon-16x16.png' not found.
+      Regenerating: 1 file(s) changed at 2023-04-22 19:24:57
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.762404 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:25:41
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.81131 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:26:13
+                    group/index.html
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.770625 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:26:51
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.744052 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:27:05
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.782196 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:27:33
+                    _data/navigation.yml
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.854602 seconds.
+                    
+      Regenerating: 1 file(s) changed at 2023-04-22 19:27:56
+                    nohup.out
+       Jekyll Feed: Generating feed for posts
+                    ...done in 2.749094 seconds.
+                    
