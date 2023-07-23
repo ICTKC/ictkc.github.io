@@ -17,13 +17,15 @@ I welcome all undergraduate students who have solid foundation in computer scien
 Research interests
 ==
 
-* Knowledge Graph
---
-My research in knowledge graph field focuses on automatically extracting entity-relation and event from unstructured/simi-structured data such as text, wiki pages or heterogeneous tables. For example, we extract particular person/time/location and their relationships from web pages. Knowledge graph is the fundamental resource for many nlp and other intelligent applications, or even considered to be the bottleneck of true AI.
-
 * LLM & NLP
 --
 My research in LLM & NLP mainly focuses on training large language models and investigating their mysterious features such as emergence effect, hallucination, COT, etc. We also fine-tune LLMs for NLP applications including dialogue system and text generation. LLM-based-NLP is widely used in information retrieving, recommendation, online advertising, and many other important products.
+
+
+* Knowledge Graph
+--
+My research in knowledge graph field focuses on automatically extracting entity-relation and event from unstructured/simi-structured data such as text, wiki pages or heterogeneous tables. For example, we extract particular person/time/location and their relationships from web pages. Knowledge graph is the fundamental resource for many nlp and other intelligent applications, or even considered to be the bottleneck of reliable AI.
+
 
 * Neural-Symbolic Dual-Process Computing
 --
