@@ -23,7 +23,7 @@ My research in knowledge graph field focuses on automatically extracting entity-
 
 * LLM & NLP
 --
-My research in LLM & NLP mainly focuses on training large language models and investigatint their mysterious features such as emergence effect, hallucination, COT , etc. We also fine-tune LLMs for NLP applications including dialogue system and text generation. LLM-based-NLP is widely used in information retrieving, recommendation, online advertising, and many other important products.
+My research in LLM & NLP mainly focuses on training large language models and investigating their mysterious features such as emergence effect, hallucination, COT , etc. We also fine-tune LLMs for NLP applications including dialogue system and text generation. LLM-based-NLP is widely used in information retrieving, recommendation, online advertising, and many other important products.
 
 * Neural-Symbolic Dual-Process Computing
 --
