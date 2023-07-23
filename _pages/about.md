@@ -8,7 +8,7 @@ redirect_from:
   /about.html
 ---
 
-is Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
+is Shi Wang, Associate Professor from [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.ac.cn), Beijing, China. I am mainly engaged in the fields of knowledge graph, LLM based NLP, and neural-symbolic dual-process computing. Specifically, I focus on integrateing symbolic knowledge with deep learning to realize dual-process cognitive computing for LLM based natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
 
 I am vice secretary general of Chinese Association for Artificial Intelligence(CAAI) Mind Computation Committee, member of TCM informatization professional committee, Beijing chronic disease big data professional committee. I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
 
@@ -21,13 +21,13 @@ Research interests
 --
 My research in knowledge graph field focuses on automatically extracting entity-relation and event from unstructured/simi-structured data such as text, wiki pages or heterogeneous tables. For example, we extract particular person/time/location and their relationships from web pages. Knowledge graph is the fundamental resource for many nlp and other intelligent applications, or even considered to be the bottleneck of true AI.
 
-* Natural Language Processing
+* LLM & NLP
 --
-My research in nlp focuses on dialogue system, multi-hop machine reading comprehension, and text generation. For example, we build task-oriented chat-bot using knowledge graph or text, or automatically write financial report using sale tables. NLP is one of the major field in AI and widely used in information retriving, recommandation, online advertising, and many other products.
+My research in LLM & NLP mainly focuses on training large language models and investigate their mystirious features such as emergence effect, hallucination, COT , etc. We also fine-tune LLMs for NLP applications including dialogue system and text generation.  LLM-based-NLP is widely used in information retriving, recommandation, online advertising, and many other important products.
 
 * Neural-Symbolic Dual-Process Computing
 --
-Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. We believe integrating symbolic knowledge graph and logic rules with vectorized deep learning model in a dual-process way is a better simulation. Research topics include symbolic knowledge representation, dual-process NN structure, and knowledge enhanced pre-training, etc. 
+Deep learning implemented by neural network has some limitations including zero-shot learning, interpretability, and noise sensitive, etc. We believe integrating symbolic knowledge graph and logic rules with vectorized deep learning model in a dual-process way is a better simulation. Research topics include symbolic knowledge representation, dual-process NN structure, and knowledge enhanced LLM, etc. 
 
 ```
 WO: hello world ~
