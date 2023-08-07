@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/23-acl-qingyuewang
 excerpt: ''
 date: 2023-07-01
-venue: 'Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
-citation: 'Qingyue Wang, Liang Ding, Yanan Cao, Yibing Zhan, Zheng Lin, Shi Wang, Dacheng Tao, and Li Guo. Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking. In ACL-2023.'
+venue: 'ACL 2023'
+citation: 'Qingyue Wang, Liang Ding, Yanan Cao, Yibing Zhan, Zheng Lin, Shi Wang, Dacheng Tao, and Li Guo. Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking. In ACL 2023.'
 ---
 Abstract
 --

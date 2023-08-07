@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/23-icassp-jicunli
 excerpt: ''
 date: 2023-07-04
-venue: 'ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
+venue: 'ICASSP 2023'
 citation: 'Jicun Li, Xingjian Li, Tianyang Wang, Shi Wang, Yanan Cao, Chengzhong Xu, Dejing Dou. Improving Bert Fine-Tuning via Stabilizing Cross-Layer Mutual Information. In ICASSP 2023.'
 ---
 Abstract
