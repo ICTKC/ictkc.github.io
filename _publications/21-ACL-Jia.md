@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ACL-21-Jia
 excerpt: ''
 date: 2021-08-01
-venue: 'ACL'
+venue: 'ACL (CCF-A)'
 citation: 'Ruipeng Jia, Yanan Cao, Fang Fang, Yuchen Zhou, Zheng Fang, Yanbing Liu, Shi Wang: Deep Differential Amplifier for Extractive Summarization. ACL/IJCNLP (1) 2021: 366-376'
 ---
 Abstract

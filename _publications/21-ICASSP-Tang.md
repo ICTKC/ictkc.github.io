@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ICASSP-21-Tang
 excerpt: ''
 date: 2021-05-13
-venue: 'ICASSP'
+venue: 'ICASSP (CCF-B)'
 citation: 'Hengzhu Tang, Yanan Cao, Zhenyu Zhang, Ruipeng Jia, Fang Fang, Shi Wang: Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction. ICASSP 2021: 7683-7687'
 ---
 Abstract

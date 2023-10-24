@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EMNLP-20-Jia
 excerpt: ''
 date: 2020-11-01
-venue: 'EMNLP'
+venue: 'EMNLP (CCF-B)'
 citation: 'Ruipeng Jia, Yanan Cao, Hengzhu Tang, Fang Fang, Cong Cao, Shi Wang:Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network. EMNLP (1) 2020: 3622-3631
 '
 ---

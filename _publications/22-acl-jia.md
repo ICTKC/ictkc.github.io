@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/22-acl-jia
 excerpt: ''
 date: 2022-04-11
-venue: 'ACL'
+venue: 'ACL (CCF-A)'
 citation: 'Ruipeng Jia, Xingxing Zhang, Yanan Cao, Zheng Lin, Shi Wang, Furu Wei: Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization. ACL (1) 2022: 561-570'
 ---
 Abstract

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/EMNLP-21-Sun
 excerpt: ''
 date: 2021-12-01
-venue: 'EMNLP'
+venue: 'EMNLP (CCF-B)'
 citation: 'Xingwu Sun, Yanling Cui, Hongyin Tang, Fuzheng Zhang, Beihong Jin, Shi Wang: Enhancing Document Ranking with Task-adaptive Training and Segmented Token Recovery Mechanism. EMNLP (1) 2021: 3570-3579'
 ---
 Abstract
