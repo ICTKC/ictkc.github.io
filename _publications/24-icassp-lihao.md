@@ -1,5 +1,5 @@
 ---
-title: "Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction"
+title: "19. Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction"
 collection: publications
 permalink: /publication/24-icassp-lihao
 excerpt: ''

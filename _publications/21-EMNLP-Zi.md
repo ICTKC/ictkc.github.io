@@ -1,5 +1,5 @@
 ---
-title: "SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map"
+title: "8. SOM-NCSCM : An Efficient Neural Chinese Sentence Compression Model Enhanced with Self-Organizing Map"
 collection: publications
 permalink: /publication/EMNLP-21-zi
 excerpt: ''

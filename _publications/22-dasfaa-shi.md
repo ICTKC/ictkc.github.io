@@ -1,5 +1,5 @@
 ---
-title: "HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding"
+title: "13. HieNet: Bidirectional Hierarchy Framework for Automated ICD Coding"
 collection: publications
 permalink: /publication/22-dasfaa-shi
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction"
+title: "9. Multi-Granularity Heterogeneous Graph for Document-Level Relation Extraction"
 collection: publications
 permalink: /publication/ICASSP-21-Tang
 excerpt: ''

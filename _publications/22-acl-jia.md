@@ -1,5 +1,5 @@
 ---
-title: "Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization"
+title: "12. Neural Label Search for Zero-Shot Multi-Lingual Extractive Summarization"
 collection: publications
 permalink: /publication/22-acl-jia
 excerpt: ''

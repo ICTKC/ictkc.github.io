@@ -1,5 +1,5 @@
 ---
-title: "Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences"
+title: "5. Flexible Non-Autoregressive Extractive Summarization with Threshold: How to Extract a Non-Fixed Number of Summary Sentences"
 collection: publications
 permalink: /publication/AAAI-21-Jia
 excerpt: ''

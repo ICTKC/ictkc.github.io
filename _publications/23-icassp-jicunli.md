@@ -1,5 +1,5 @@
 ---
-title: "Improving Bert Fine-Tuning via Stabilizing Cross-Layer Mutual Information"
+title: "17. Improving Bert Fine-Tuning via Stabilizing Cross-Layer Mutual Information"
 collection: publications
 permalink: /publication/23-icassp-jicunli
 excerpt: ''

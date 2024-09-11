@@ -1,5 +1,5 @@
 ---
-title: "High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking"
+title: "4. High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking"
 collection: publications
 permalink: /publication/WWW-20-FangZheng
 excerpt: ''
