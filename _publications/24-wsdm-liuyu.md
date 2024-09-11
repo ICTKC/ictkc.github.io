@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/24-wsdm-liuyu
 excerpt: ''
 date: 2024-03-04
-venue: 'WSDM(CCF-B)'
+venue: 'WSDM (CCF-B)'
 citation: 'Yu Liu, Yanan Cao, Shi Wang, Qingyue Wang, Guanqun Bi. Generative Models for Complex Logical Reasoning over Knowledge Graphs.  WSDM 2024.'
 ---
 Abstract

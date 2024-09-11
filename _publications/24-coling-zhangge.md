@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/24-coling-zhangge
 excerpt: ''
 date: 2024-05-04
-venue: 'LREC-COLING(CCF-B)'
+venue: 'LREC-COLING (CCF-B)'
 citation: 'Yujie Shao, Xinrong Yao, Xingwei Qu, Chenghua Lin, Shi Wang, Wenhao Huang, Ge Zhang, Jie Fu.
 CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation. LREC-COLING 2024.'
 ---

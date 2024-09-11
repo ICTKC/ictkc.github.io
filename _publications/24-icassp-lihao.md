@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/24-icassp-lihao
 excerpt: ''
 date: 2024-04-19
-venue: 'ICASSP(CCF-B)'
+venue: 'ICASSP (CCF-B)'
 citation: 'Hao Li, Yanan Cao, Yubing Ren, Fang Fang, Lanxue Zhang, Yingjie Li, Shi Wang.
 Sorting, Reasoning, and Extraction: An Easy-to-Hard Reasoning Framework for Document-Level Event Argument Extraction. ICASSP 2024'
 ---
