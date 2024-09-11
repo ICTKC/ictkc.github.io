@@ -1,5 +1,5 @@
 ---
-title: "20. Generative Models for Complex Logical Reasoning over Knowledge Graphs"
+title: "Generative Models for Complex Logical Reasoning over Knowledge Graphs"
 collection: publications
 permalink: /publication/24-wsdm-liuyu
 excerpt: ''

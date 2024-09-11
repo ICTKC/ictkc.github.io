@@ -1,5 +1,5 @@
 ---
-title: "18. Interactive Natural Language Processing"
+title: "Interactive Natural Language Processing"
 collection: publications
 permalink: /publication/23-Interactive_NLP
 excerpt: ''

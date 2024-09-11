@@ -1,5 +1,5 @@
 ---
-title: "7. Enhancing Document Ranking with Task-adaptive Training and Segmented Token Recovery Mechanism"
+title: "Enhancing Document Ranking with Task-adaptive Training and Segmented Token Recovery Mechanism"
 collection: publications
 permalink: /publication/EMNLP-21-Sun
 excerpt: ''

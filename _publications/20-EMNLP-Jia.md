@@ -1,5 +1,5 @@
 ---
-title: "2. Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network"
+title: "Neural Extractive Summarization with Hierarchical Attentive Heterogeneous Graph Network"
 collection: publications
 permalink: /publication/EMNLP-20-Jia
 excerpt: ''

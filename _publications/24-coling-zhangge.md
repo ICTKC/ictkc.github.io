@@ -1,5 +1,5 @@
 ---
-title: "21. CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation"
+title: "CMDAG: A Chinese Metaphor Dataset with Annotated Grounds as CoT for Boosting Metaphor Generation"
 collection: publications
 permalink: /publication/24-coling-zhangge
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "16. State of health estimation of lithium-ion batteries based on Mixers-bidirectional temporal convolutional neural network"
+title: "State of health estimation of lithium-ion batteries based on Mixers-bidirectional temporal convolutional neural network"
 collection: publications
 permalink: /publication/23-batteries-wangkai
 excerpt: ''

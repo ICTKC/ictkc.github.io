@@ -1,5 +1,5 @@
 ---
-title: "6. Deep Differential Amplifier for Extractive Summarization"
+title: "Deep Differential Amplifier for Extractive Summarization"
 collection: publications
 permalink: /publication/ACL-21-Jia
 excerpt: ''

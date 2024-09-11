@@ -1,5 +1,5 @@
 ---
-title: "15. Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking"
+title: "Divide, Conquer, and Combine: Mixture of Semantic-Independent Experts for Zero-Shot Dialogue State Tracking"
 collection: publications
 permalink: /publication/23-acl-qingyuewang
 excerpt: ''

@@ -1,5 +1,5 @@
 ---
-title: "1. Answer-focused and Position-aware Neural Question Generation"
+title: "Answer-focused and Position-aware Neural Question Generation"
 collection: publications
 permalink: /publication/EMNLP-18-Sun
 excerpt: ''
