@@ -5,8 +5,7 @@ permalink: /publication/23-Interactive_NLP
 excerpt: ''
 date: 2023-05-22
 venue: 'arXiv:2305.13246'
-citation: 'Interactive natural language processing
-Z Wang, G Zhang, K Yang, N Shi, W Zhou, S Wang, etc,. arXiv preprint arXiv:2305.13246, 2023'
+citation: 'Z Wang, G Zhang, K Yang, N Shi, W Zhou, S Wang, etc,. Interactive natural language processing. arXiv preprint arXiv:2305.13246, 2023'
 ---
 Abstract
 --
