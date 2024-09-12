@@ -5,8 +5,7 @@ permalink: /publication/WWW-20-FangZheng
 excerpt: ''
 date: 2020-04-20
 venue: 'WWW (CCF-A)'
-citation: 'Zheng Fang, Yanan Cao, Ren Li, Zhenyu Zhang, Yanbing Liu, Shi Wang: High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking. WWW 2020: 640-650
-'
+citation: 'Zheng Fang, Yanan Cao, Ren Li, Zhenyu Zhang, Yanbing Liu, Shi Wang: High Quality Candidate Generation and Sequential Graph Attention Network for Entity Linking. WWW 2020: 640-650'
 ---
 Abstract
 --

@@ -5,8 +5,7 @@ permalink: /publication/PAKDD-20-TangHengzhu
 excerpt: ''
 date: 2020-05-06
 venue: 'PAKDD (BEST PAPER)'
-citation: 'Hengzhu Tang, Yanan Cao, Zhenyu Zhang, Jiangxia Cao, Fang Fang, Shi Wang, Pengfei Yin: HIN: Hierarchical Inference Network for Document-Level Relation Extraction. PAKDD (1) 2020: 197-209
-'
+citation: 'Hengzhu Tang, Yanan Cao, Zhenyu Zhang, Jiangxia Cao, Fang Fang, Shi Wang, Pengfei Yin: HIN: Hierarchical Inference Network for Document-Level Relation Extraction. PAKDD (1) 2020: 197-209'
 ---
 Abstract
 --
