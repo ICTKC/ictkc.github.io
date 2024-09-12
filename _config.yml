@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "CoGC"
+title                    : "ICTKC"
 title_separator          : "-"
 name                     : &name "Shi Wang"
 description              : &description "I am Shi Wang, Associate Professor from <a href=\"http://www.ict.ac.cn\">Institute of Computing Technology, Chinese Academy of Sciences</a>, Beijing, China. I am mainly engaged in the fields of knowledge graph, natural language processing and cognitive computing. Specifically, I focus on integrateing symbolic knowledge and deep learning to realize dual process cognitive computing for natural language reasoning applications. My papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences."
