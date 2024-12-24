@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/23-nips-zhangge
 excerpt: ''
 date: 2023-08-04
-venue: 'NeurIPS 2023 (CCF-A)'
+venue: 'NeurIPS (CCF-A)'
 citation: 'Ruibin Yuan, Yinghao Ma, Yizhi Li, Ge Zhang, Shi Wang, Ruibo Liu, Yike Guo, Jie Fu: MARBLE: Music Audio Representation Benchmark for Universal Evaluation. NeurIPS 2023'
 ---
 Abstract
