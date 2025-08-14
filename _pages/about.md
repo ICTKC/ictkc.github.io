@@ -8,7 +8,7 @@ redirect_from:
   /about.html
 ---
 
-is Shi Wang, [Professor from Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/sourcedb/cn/jssrck/201612/t20161205_4716469.html), Beijing, China. I am mainly engaged in the fields of LLM based NLP, knowledge graph, and neural-symbolic dual-process computing. Specifically, I focus on integrating symbolic knowledge with deep learning to realize dual-process cognitive computing for LLM based natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
+is Shi Wang, [Professor from Institute of Computing Technology, Chinese Academy of Sciences](https://www.ict.ac.cn/sourcedb/cn/jssrck/201612/t20161205_4716469.html), Beijing, China. I am mainly engaged in the fields of LLM based NLP,  robotic dexterous hands, and neural-symbolic dual-process computing. Specifically, I focus on integrating symbolic knowledge with deep learning to realize dual-process cognitive computing for LLM based natural language reasoning involved tasks. Research papers were published in AAAI, WWW, EMNLP, ACL and other international top conferences.
 
 I am vice secretary general of Chinese Association for Artificial Intelligence(CAAI) Mind Computation Committee, member of TCM informatization professional committee, Beijing chronic disease big data professional committee. I am supported by the National Key Research and Development Program of China, National Natural Science Foundation of China, the National Information Security Program, Beijing NOVA Program, etc.
 
@@ -17,14 +17,14 @@ I welcome all undergraduate students who have solid foundation in computer scien
 Research interests
 ==
 
-* LLM & NLP
+* LLM & NLP & KG
 --
 My research in LLM & NLP mainly focuses on training large language models and investigating their mysterious features such as emergence effect, hallucination, COT, etc. We also fine-tune LLMs for NLP applications including dialogue system and text generation. LLM-based-NLP is widely used in information retrieving, recommendation, online advertising, and many other important products.
 
 
-* Knowledge Graph
+* Robotic Dexterous Hands
 --
-My research in knowledge graph field focuses on automatically extracting entity-relation and event from unstructured/simi-structured data such as text, wiki pages or heterogeneous tables. For example, we extract particular person/time/location and their relationships from web pages. Knowledge graph is the fundamental resource for many nlp and other intelligent applications, or even considered to be the bottleneck of reliable AI.
+Dexterous hand is one of the core components of robots. In this field, we want to investigate physics-informed reinforcement learning in order to improving the generalization capabilities of dexterous hands, including synthetic data generation, VLA model post-training, task planning, etc. Additionally, we explore sim2real technology to accomplish multi-tasks in real world.
 
 
 * Neural-Symbolic Dual-Process Computing
