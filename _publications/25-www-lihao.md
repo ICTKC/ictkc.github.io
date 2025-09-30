@@ -3,8 +3,8 @@ title: "Bridging the Gap: Aligning Language Model Generation with Structured Inf
 collection: publications
 permalink: /publication/25-www-lihao
 excerpt: ''
-date: 2025-03-04
-venue: 'WSDM (CCF-B)'
+date: 2025-04-22
+venue: ' WWW (CCF-A)'
 citation: 'Hao Li, Yubing Ren, Yanan Cao, Yingjie Li, Fang Fang, Zheng Lin, Shi Wang: Bridging the Gap: Aligning Language Model Generation with Structured Information Extraction via Controllable State Transition. WWW 2025: 1811-1821'
 ---
 Abstract
