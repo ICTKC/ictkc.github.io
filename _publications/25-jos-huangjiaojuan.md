@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/25-jos-huanqiaojuan
 excerpt: ''
 date: 2025-01-02
-venue: 'Èí¼þÑ§±¨'
+venue: 'Journal of Software'
 citation: 'HUANG Qiao-Juan, CAO Cun-Gen, WANG Ya, WANG Shi. Method for Expanding Event Commonsense Knowledge Graph Based on Large Language Models. Journal of Software, 2025,36(9):4153-4186'
 ---
 Abstract
