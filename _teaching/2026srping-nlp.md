@@ -1,9 +1,9 @@
 ---
-title: "自然语言处理（2025—2026学年(春)第二学期 中国科学院大学计算机科学与技术学院 专业核心课）"
+title: "自然语言处理（2026春 国科大计算机学院专业核心课）"
 collection: teaching
-type: "主讲：王石、资康莉、刘瑜"
+type: "王石、资康莉、刘瑜"
 permalink: /teaching/2026spring-nlp
-venue: "180086085404P2009Y"
+venue: "课程编号：180086085404P2009Y"
 date: 2026-03-01
 location: "Beijing, China"
 ---
