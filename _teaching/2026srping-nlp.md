@@ -15,7 +15,7 @@ location: "Beijing, China"
 * 第4/8/12周周日加课：教学楼阶二5，5-7节（13:30-16:10）
 * [教学日历](https://mp.weixin.qq.com/s/HrJRdASkM966jwhhZk0wnA)
 
-01 绪论 [课件](../files/2026春季自然语言处理 01 - 绪论.pdf)
+[01 绪论](../files/2026春季自然语言处理 01 - 绪论.pdf)
 ======
 * 人人都爱NLP
 * Hello，NLP！
@@ -23,7 +23,7 @@ location: "Beijing, China"
 * NLP学习资源
 
 
-02 大语言模型 [课件](../files/2026春季自然语言处理 02 - 大模型.pdf)
+[02 大语言模型](../files/2026春季自然语言处理 02 - 大模型.pdf)
 ======
 * 统计语言模型
 * 神经网络语言模型
