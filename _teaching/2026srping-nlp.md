@@ -1,9 +1,9 @@
 ---
 title: "2026春季 - 自然语言处理"
 collection: teaching
-type: "spring courses"
+type: "中国科学院大学 2025—2026学年(春)第二学期 计算机科学与技术学院 专业核心课"
 permalink: /teaching/2026spring-nlp
-venue: "University of Chinese Academy of Sciences, School of Computer Science and Technology"
+venue: "课程编号：180086085404P2009Y"
 date: 2026-03-01
 location: "Beijing, China"
 ---
