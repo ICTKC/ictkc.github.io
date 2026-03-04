@@ -34,5 +34,5 @@ location: "Beijing, China"
 ======
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
-* 常见网络结构（RNN/LSTM/GRU）
+* 常见网络结构（RNN/LSTM/Seq2Seq）
 * Hello, Transformer
