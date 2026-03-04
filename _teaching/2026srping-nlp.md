@@ -36,3 +36,5 @@ location: "Beijing, China"
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
+
+[04 分词和词向量]
