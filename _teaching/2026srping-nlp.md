@@ -32,7 +32,7 @@ location: "Beijing, China"
 
 [03 神经网络基础](../files/2026春季自然语言处理 03 - 神经网络.pdf)
 ======
-* 神经网络原理
-* 训练神经网络
-* 常见网络结构
-* PyTorch实践
+* 神经网络原理（MLP）
+* 训练神经网络（BP）
+* 常见网络结构（RNN/LSTM/GRU）
+* Hello, Transformer
