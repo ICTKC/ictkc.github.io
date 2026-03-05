@@ -15,28 +15,27 @@ location: "Beijing, China"
 * 第4/8/12周周日加课：玉泉路校区教学楼阶二5，5-7节（13:30-16:10）
 * [教学日历](https://mp.weixin.qq.com/s/HrJRdASkM966jwhhZk0wnA)
 
-[01 绪论](../files/2026春季自然语言处理 01 - 绪论.pdf)
+[01 绪论](../files/2026spring_nlp_01_introduction.pdf)
 ======
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
 * NLP学习资源
 
-
-[02 大语言模型](../files/2026春季自然语言处理 02 - 大语言模型.pdf)
+[02 大语言模型](../files/2026spring_nlp_02_llm.pdf)
 ======
 * 统计语言模型
 * 神经网络语言模型
 * 大语言模型
 * 大模型学习路径
 
-[03 神经网络基础](../files/2026春季自然语言处理 03 - 神经网络基础.pdf)
+[03 神经网络基础](../files/2026spring_nlp_03_nn.pdf)
 ======
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[04 注意力](../files/2026春季自然语言处理 03 - 注意力.pdf)
+[04 注意力](../files/2026spring_nlp_04_attention.pdf)
 ======
 * 
