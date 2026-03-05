@@ -36,6 +36,6 @@ location: "Beijing, China"
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[04 注意力](../files/2026spring_nlp_04_attention.pdf)
+[04注意力](../files/2026spring_nlp_04_attention.pdf)
 ======
 * 
