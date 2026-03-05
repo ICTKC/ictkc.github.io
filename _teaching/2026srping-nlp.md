@@ -37,4 +37,6 @@ location: "Beijing, China"
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[04 分词和词向量]
+[04 注意力](../files/2026春季自然语言处理 03 - 注意力.pdf)
+======
+* 
