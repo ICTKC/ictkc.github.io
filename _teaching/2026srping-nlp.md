@@ -41,5 +41,5 @@ location: "Beijing, China"
 ======
 * 带注意力的Encoder-Decoder
 * 自注意力
-* 多位置编码
+* 位置编码
 * Transformers
