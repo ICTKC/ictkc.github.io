@@ -37,7 +37,7 @@ location: "Beijing, China"
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[04 Transformers](../files/2026spring_nlp_04_transformers.pdf)
+[04 注意力机制](../files/2026spring_nlp_04_attention.pdf)
 ======
 * 带注意力的Encoder-Decoder
 * 自注意力
