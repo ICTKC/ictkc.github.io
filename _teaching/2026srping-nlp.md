@@ -49,4 +49,4 @@ location: "Beijing, China"
 * 什么是词嵌入
 * Word2Vec
 * Glove
-* Token
+* 词元Token
