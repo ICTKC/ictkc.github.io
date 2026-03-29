@@ -50,3 +50,10 @@ location: "Beijing, China"
 * Word2Vec
 * Glove
 * 词元Token
+
+[06 练习-从入门到nnlm](../files/2026spring_nlp_06_practice_nnlm.pdf)
+======
+* 手搓异或网络
+* PyTorch版异或网络
+* NNLM
+* Transformer
