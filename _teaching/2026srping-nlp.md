@@ -57,3 +57,5 @@ location: "Beijing, China"
 * PyTorch版异或网络
 * NNLM
 * Transformer
+
+[07 预训练](../files/2026spring_nlp_07_plm.pdf)
