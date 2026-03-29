@@ -51,7 +51,7 @@ location: "Beijing, China"
 * Glove
 * 词元Token
 
-[06 练习-从入门到nnlm](../files/2026spring_nlp_06_practice_nnlm.pdf)
+[06 练习-从入门到Transformer](../files/2026spring_nlp_06_practice1.pdf)
 ======
 * 手搓异或网络
 * PyTorch版异或网络
