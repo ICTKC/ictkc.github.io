@@ -59,3 +59,7 @@ location: "Beijing, China"
 * Transformer
 
 [07 预训练](../files/2026spring_nlp_07_plm.pdf)
+======
+* 什么是预训练
+* 预训练方法
+* 大（预训练）语言模型
