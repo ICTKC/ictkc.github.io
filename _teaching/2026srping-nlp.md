@@ -52,4 +52,4 @@ location: "Beijing, China"
 ## [05 预训练](../files/2026spring_nlp_05_plm.pdf)
 * 什么是预训练
 * 预训练方法
-* 大（预训练）语言模型
+* 预训练大语言模型
