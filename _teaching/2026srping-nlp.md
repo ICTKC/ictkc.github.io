@@ -16,45 +16,41 @@ location: "Beijing, China"
 * [教学日历](https://mp.weixin.qq.com/s/HrJRdASkM966jwhhZk0wnA)
 * [PPT下载](https://pan.baidu.com/s/149uA2QzS4ozKvHltHT0TEQ) 提取码: im2q
 
-# [基础知识]
+# [第一部分 基础知识]
+
 ## [01 绪论](../files/2026spring_nlp_01_introduction.pdf)
-======
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
 * 初识大模型
 
-[02 神经网络基础](../files/2026spring_nlp_02_nn.pdf)
+## [02 神经网络基础](../files/2026spring_nlp_02_nn.pdf)
 ======
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[03 注意力机制](../files/2026spring_nlp_03_attention.pdf)
-======
+## [03 注意力机制](../files/2026spring_nlp_03_attention.pdf)
 * 带注意力的Encoder-Decoder
 * 自注意力
 * 位置编码
 * Transformers
                     
-[04 词嵌入](../files/2026spring_nlp_04_embedding.pdf)
-======
+## [04 词嵌入](../files/2026spring_nlp_04_embedding.pdf)
 * 什么是词嵌入
 * Word2Vec
 * Glove
 * 词元Token
 
-[04.A 练习-从入门到Transformer](../files/2026spring_nlp_04.A_practice1.pdf)
-======
+## [04.A 练习-从入门到Transformer](../files/2026spring_nlp_04.A_practice1.pdf)
 * 手搓异或网络
 * PyTorch版异或网络
 * NNLM
 * Transformer
 
-# [大语言模型]
-[05 预训练](../files/2026spring_nlp_05_plm.pdf)
-======
+# [第二部分 大语言模型]
+## [05 预训练](../files/2026spring_nlp_05_plm.pdf)
 * 什么是预训练
 * 预训练方法
 * 大（预训练）语言模型
