@@ -16,49 +16,44 @@ location: "Beijing, China"
 * [教学日历](https://mp.weixin.qq.com/s/HrJRdASkM966jwhhZk0wnA)
 * [PPT下载](https://pan.baidu.com/s/149uA2QzS4ozKvHltHT0TEQ) 提取码: im2q
 
-[01 绪论](../files/2026spring_nlp_01_introduction.pdf)
+# [基础知识]
+## [01 绪论](../files/2026spring_nlp_01_introduction.pdf)
 ======
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
-* NLP学习资源
+* 初识大模型
 
-[02 大语言模型](../files/2026spring_nlp_02_llm.pdf)
-======
-* 统计语言模型
-* 神经网络语言模型
-* 大语言模型
-* 大模型学习路径
-
-[03 神经网络基础](../files/2026spring_nlp_03_nn.pdf)
+[02 神经网络基础](../files/2026spring_nlp_02_nn.pdf)
 ======
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-[04 注意力机制](../files/2026spring_nlp_04_attention.pdf)
+[03 注意力机制](../files/2026spring_nlp_03_attention.pdf)
 ======
 * 带注意力的Encoder-Decoder
 * 自注意力
 * 位置编码
 * Transformers
                     
-[05 词嵌入](../files/2026spring_nlp_05_embedding.pdf)
+[04 词嵌入](../files/2026spring_nlp_04_embedding.pdf)
 ======
 * 什么是词嵌入
 * Word2Vec
 * Glove
 * 词元Token
 
-[06 练习-从入门到Transformer](../files/2026spring_nlp_06_practice1.pdf)
+[04.A 练习-从入门到Transformer](../files/2026spring_nlp_04.A_practice1.pdf)
 ======
 * 手搓异或网络
 * PyTorch版异或网络
 * NNLM
 * Transformer
 
-[07 预训练](../files/2026spring_nlp_07_plm.pdf)
+# [大语言模型]
+[05 预训练](../files/2026spring_nlp_05_plm.pdf)
 ======
 * 什么是预训练
 * 预训练方法
