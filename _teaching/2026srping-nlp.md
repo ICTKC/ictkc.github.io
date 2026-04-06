@@ -25,7 +25,6 @@ location: "Beijing, China"
 * 初识大模型
 
 ## [02 神经网络基础](../files/2026spring_nlp_02_nn.pdf)
-======
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
