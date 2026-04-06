@@ -42,7 +42,7 @@ location: "Beijing, China"
 * Glove
 * 词元Token
 
-## [04.A 练习-从入门到变形](../files/2026spring_nlp_04.A_practice1.pdf)
+## [练习1-从入门到变形](../files/2026spring_nlp_04.A_practice1.pdf)
 * 手搓异或网络
 * PyTorch版异或网络
 * NNLM
