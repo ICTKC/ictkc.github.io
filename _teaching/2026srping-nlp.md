@@ -17,7 +17,7 @@ location: "Beijing, China"
 * [PPT下载](https://pan.baidu.com/s/149uA2QzS4ozKvHltHT0TEQ) 提取码: im2q
 
 # [第一部分 基础知识]
-
+===
 ## [01 绪论](../files/2026spring_nlp_01_introduction.pdf)
 * 人人都爱NLP
 * Hello，NLP！
@@ -49,6 +49,7 @@ location: "Beijing, China"
 * Transformer
 
 # [第二部分 大语言模型]
+===
 ## [05 预训练](../files/2026spring_nlp_05_plm.pdf)
 * 什么是预训练
 * 预训练方法
