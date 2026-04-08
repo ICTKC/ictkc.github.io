@@ -54,3 +54,9 @@ location: "Beijing, China"
 * 什么是预训练
 * 预训练方法
 * 预训练大语言模型
+
+## [06 提示](../files/2026spring_nlp_06_prompt.pdf)
+* 什么是prompt
+* 提示学习
+* 提示工程
+* 
