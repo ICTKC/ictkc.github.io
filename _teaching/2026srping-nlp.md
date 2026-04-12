@@ -36,7 +36,7 @@ location: "Beijing, China"
 * 位置编码
 * Transformers
                     
-## [04 嵌入](../files/2026spring_nlp_04_embedding.pdf)
+## [04 词嵌入](../files/2026spring_nlp_04_embedding.pdf)
 * 什么是词嵌入
 * Word2Vec
 * Glove
