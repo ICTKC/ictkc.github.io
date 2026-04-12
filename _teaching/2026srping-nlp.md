@@ -61,7 +61,7 @@ location: "Beijing, China"
 * 提示学习
 
 ## [07 指令微调](../files/2026spring_nlp_07_tuning.pdf)
-* 指令微调
+* 什么是指令微调
 * 指令数据集构造
 * 全量微调
 * 高效微调
