@@ -59,3 +59,9 @@ location: "Beijing, China"
 * 什么是prompt
 * 提示工程
 * 提示学习
+
+## [07 微调](../files/2026spring_nlp_07_tuning.pdf)
+* 指令微调
+* 指令数据集构造
+* 提全量微调
+* 参数高效微调
