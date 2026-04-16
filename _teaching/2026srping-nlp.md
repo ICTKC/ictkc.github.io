@@ -64,3 +64,9 @@ location: "Beijing, China"
 * 全量微调
 * 参数高效微调
 * 指令微调
+
+## [08 推理优化](../files/2026spring_nlp_08_optimizing.pdf)
+* KV缓存
+* 注意力优化
+* 模型瘦身(量化/稀疏/蒸馏)
+* 混合专家MOE
