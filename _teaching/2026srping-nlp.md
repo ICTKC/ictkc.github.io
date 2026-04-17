@@ -70,3 +70,4 @@ location: "Beijing, China"
 * 注意力优化
 * 模型瘦身(量化/稀疏/蒸馏)
 * 混合专家MOE
+* 批处理
