@@ -65,7 +65,7 @@ location: "Beijing, China"
 * 参数高效微调
 * 指令微调
 
-## [08 推理优化](../files/2026spring_nlp_08_optimizing.pdf)
+## [08 推理（Inference）优化](../files/2026spring_nlp_08_optimizing.pdf)
 * KV缓存
 * 注意力优化
 * 模型瘦身(量化/稀疏/蒸馏)
@@ -78,8 +78,8 @@ location: "Beijing, China"
 * 偏好优化
 * 对齐评测
 
-## [10 推理模型](../files/2026spring_nlp_10_reasoning.pdf)
+## [10 推理（Reasoning）](../files/2026spring_nlp_10_reasoning.pdf)
 * 什么是推理模型
 * 推理方式
 * 训练方法
-* 典型代表
+* 典型模型
