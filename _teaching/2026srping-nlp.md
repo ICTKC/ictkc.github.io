@@ -77,3 +77,9 @@ location: "Beijing, China"
 * 强化学习
 * 偏好优化
 * 对齐评测
+
+## [09 推理模型](../files/2026spring_nlp_10_reasoning.pdf)
+* 什么是推理模型
+* 推理方式
+* 训练方法
+* 典型代表
