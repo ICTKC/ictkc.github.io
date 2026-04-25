@@ -72,13 +72,13 @@ location: "Beijing, China"
 * 混合专家MOE
 * 批处理
 
-## [08 对齐](../files/2026spring_nlp_09_alignment.pdf)
+## [09 对齐](../files/2026spring_nlp_09_alignment.pdf)
 * 大模型对齐
 * 强化学习
 * 偏好优化
 * 对齐评测
 
-## [09 推理模型](../files/2026spring_nlp_10_reasoning.pdf)
+## [10 推理模型](../files/2026spring_nlp_10_reasoning.pdf)
 * 什么是推理模型
 * 推理方式
 * 训练方法
