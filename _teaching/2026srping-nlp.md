@@ -83,3 +83,11 @@ location: "Beijing, China"
 * 推理方式
 * 训练方法
 * 典型模型
+
+## [练习2 - MiniMind：从零训练一个小型大语言模型](../files/2026spring_nlp_10.A_practice2.pdf)
+* Pretrain
+* SFT
+* RL
+* Take Home
+
+# [第三部分 大模型应用]
