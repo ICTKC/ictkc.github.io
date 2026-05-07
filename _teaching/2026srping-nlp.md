@@ -84,7 +84,7 @@ location: "Beijing, China"
 * 训练方法
 * 典型模型
 
-## [练习2 - MiniMind：从零训练一个小型大语言模型](../files/2026spring_nlp_10.A_practice2.pdf)
+## [练习2 - MiniMind：从零训练一个小大语言模型](../files/2026spring_nlp_10.A_practice2.pdf)
 * Pretrain
 * SFT
 * RL
