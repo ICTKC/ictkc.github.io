@@ -91,3 +91,8 @@ location: "Beijing, China"
 * Take Home
 
 # [第三部分 大模型应用]
+## [11 RAG](../files/2026spring_nlp_11_RAG.pdf)
+* RAG整体框架
+* 文档处理
+* 文档检索
+* GraphRAG
