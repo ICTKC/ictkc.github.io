@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/26-acl-lihao
 excerpt: ''
 date: 2026-04-06
-venue: ' ACL (CCF-A)'
+venue: ' ACL (Findings)'
 citation: 'Hao Li, Yubing Ren, Yanan Cao, Yingjie Li, Fang Fang, Shi Wang, Li Guo: DualGuard: Dual-stream Large Language Model Watermarking Defense against Paraphrase and Spoofing Attack. ACL 2026 (Findings)'
 ---
 Abstract
