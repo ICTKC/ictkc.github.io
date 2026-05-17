@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/26-acl-huangyuwei
 excerpt: ''
 date: 2026-04-06
-venue: ' ACL Findings'
+venue: ' ACL (Findings)'
 citation: 'Yuwei Huang, Shi Wang, Kangli Zi, Tianyu Luo, Jiang Zhixiao, Ruiheng Wang, Yufei Wang: LSEG: A Fine-tuning Free Method for NL2FOL via Logic-Structure and Entropy Guided Inference Controlling. ACL 2026 (Findings)'
 ---
 Abstract
