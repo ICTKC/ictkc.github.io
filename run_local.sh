@@ -1,1 +1,1 @@
-nohup bundle exec jekyll liveserve &
+bundle exec jekyll liveserve
