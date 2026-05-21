@@ -97,7 +97,7 @@ location: "Beijing, China"
 * 文档检索
 * GraphRAG
 
-## [11 智能体](../files/2026spring_nlp_11_agent1.pdf)
+## [11 智能体](../files/2026spring_nlp_12_agent1.pdf)
 * 什么是Agent
 * 感知
 * 规划
