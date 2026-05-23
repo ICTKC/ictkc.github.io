@@ -97,10 +97,14 @@ location: "Beijing, China"
 * 文档检索
 * GraphRAG
 
-## [12 智能体](../files/2026spring_nlp_12_agent1.pdf)
+## [12 智能体](../files/2026spring_nlp_12_agent.pdf)
 * 什么是Agent
 * 感知
 * 规划
 * 记忆
 * 工具调用
 
+## [13 多智能体](../files/2026spring_nlp_13_multiagent.pdf)
+* 多智能体概述
+* 多智能体协作
+* 智能体社会仿真
