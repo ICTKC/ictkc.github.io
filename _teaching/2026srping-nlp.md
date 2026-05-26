@@ -14,6 +14,7 @@ location: "Beijing, China"
 * 1-18周：玉泉路校区教学楼阶一5，5-7节（13:30-16:10）
 * 第4/8/12周周日加课：玉泉路校区教学楼阶二5，5-7节（13:30-16:10）
 * [教学日历](https://mp.weixin.qq.com/s/HrJRdASkM966jwhhZk0wnA)
+* [期末考试]18周周五（7月3日）13：30-15：30，阶二5
 * [PPT下载](https://pan.baidu.com/s/149uA2QzS4ozKvHltHT0TEQ) 提取码: im2q
 
 # [第一部分 基础知识]
