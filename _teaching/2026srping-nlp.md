@@ -22,7 +22,7 @@ location: "Beijing, China"
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
-* 初识大模型
+* 大语言模型
 
 ## [02 神经网络](../files/2026spring_nlp_02_nn.pdf)
 * 神经网络原理（MLP）
@@ -90,7 +90,7 @@ location: "Beijing, China"
 * RL
 * Take Home
 
-# [第三部分 大模型应用]
+# [第三部分 大语言模型应用]
 ## [11 RAG](../files/2026spring_nlp_11_rag.pdf)
 * RAG整体框架
 * 文档处理
