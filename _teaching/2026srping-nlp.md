@@ -18,7 +18,7 @@ location: "Beijing, China"
 
 # [第一部分 基础知识]
 
-## [01 绪论](../files/2026spring_nlp_01_introduction.pdf)
+## [01 Hello, NLP!](../files/2026spring_nlp_01_hello-nlp.pdf)
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
@@ -108,3 +108,22 @@ location: "Beijing, China"
 * 多智能体概述
 * 多智能体协作
 * 智能体社会仿真
+
+## [练习3 - 试一试智能体框架]()
+* LangChain/LangGraph
+* AgentScope
+* OpenClaw
+* Hermes
+
+# [第四部分 温故知新]
+## [14 !PLN, olleH]()
+* 情感分类
+* 信息抽取
+* 阅读理解
+* 对话问答
+
+## [15 安全]()
+
+## [16 可信]()
+
+## [17 多模态]()
