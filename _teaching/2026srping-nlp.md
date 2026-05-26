@@ -116,7 +116,7 @@ location: "Beijing, China"
 * Hermes
 
 # [第四部分 温故知新]
-## [14 !PLN, olleH]()
+## [14 Hello again, NLP!]()
 * 情感分类
 * 信息抽取
 * 阅读理解
