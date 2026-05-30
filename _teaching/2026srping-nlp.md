@@ -116,11 +116,12 @@ location: "Beijing, China"
 * Hermes
 
 # [第四部分 温故知新]
-## [14 Hello again, NLP!]()
-* 情感分类
-* 信息抽取
-* 阅读理解
-* 对话问答
+## [14 Hello again, NLP!](../files/2026spring_nlp_14_hello-again-nlp.pdf)
+* 文本分类
+* 文本匹配
+* 序列标注
+* 文本生成
+
 
 ## [15 安全]()
 
