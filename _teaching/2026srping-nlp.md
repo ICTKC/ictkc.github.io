@@ -109,7 +109,7 @@ location: "Beijing, China"
 * 多智能体协作
 * 智能体社会仿真
 
-## [练习3 - 试一试智能体框架]()
+## [练习3 - 试一试智能体框架](../files/2026spring_nlp_13.A_practice3.pdf)
 * LangChain/LangGraph
 * AgentScope
 * OpenClaw
