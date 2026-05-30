@@ -18,31 +18,31 @@ location: "Beijing, China"
 
 # [第一部分 基础知识]
 
-## [01 Hello, NLP!](../files/2026spring_nlp_01_hello-nlp.pdf)
+## [01 Hello, NLP!](../files/2026spring_nlp/01_hello-nlp.pdf)
 * 人人都爱NLP
 * Hello，NLP！
 * NLP任务概览
 * 大语言模型
 
-## [02 神经网络](../files/2026spring_nlp_02_nn.pdf)
+## [02 神经网络](../files/2026spring_nlp/02_nn.pdf)
 * 神经网络原理（MLP）
 * 训练神经网络（BP）
 * 常见网络结构（RNN/LSTM/GRU）
 * Encoder-Decoder架构
 
-## [03 注意力](../files/2026spring_nlp_03_attention.pdf)
+## [03 注意力](../files/2026spring_nlp/03_attention.pdf)
 * 带注意力的Encoder-Decoder
 * 自注意力
 * 位置编码
 * Transformers
                     
-## [04 词嵌入](../files/2026spring_nlp_04_embedding.pdf)
+## [04 词嵌入](../files/2026spring_nlp/04_embedding.pdf)
 * 什么是词嵌入
 * Word2Vec
 * Glove
 * 词元Token
 
-## [练习1 - 从入门到变形](../files/2026spring_nlp_04.A_practice1.pdf)
+## [练习1 - 从入门到变形](../files/2026spring_nlp/04.A_practice1.pdf)
 * 手搓异或网络
 * PyTorch版异或网络
 * NNLM
@@ -50,73 +50,73 @@ location: "Beijing, China"
 
 # [第二部分 大语言模型]
 
-## [05 预训练](../files/2026spring_nlp_05_plm.pdf)
+## [05 预训练](../files/2026spring_nlp/05_plm.pdf)
 * 什么是预训练
 * 预训练方法
 * 预训练大语言模型
 
-## [06 提示](../files/2026spring_nlp_06_prompt.pdf)
+## [06 提示](../files/2026spring_nlp/06_prompt.pdf)
 * 什么是prompt
 * 提示工程
 * 提示学习
 
-## [07 微调](../files/2026spring_nlp_07_tuning.pdf)
+## [07 微调](../files/2026spring_nlp/07_tuning.pdf)
 * 全量微调
 * 参数高效微调
 * 指令微调
 
-## [08 推理（Inference）优化](../files/2026spring_nlp_08_optimizing.pdf)
+## [08 推理（Inference）优化](../files/2026spring_nlp/08_optimizing.pdf)
 * KV缓存
 * 注意力优化
 * 模型瘦身(量化/稀疏/蒸馏)
 * 混合专家MOE
 * 批处理
 
-## [09 对齐](../files/2026spring_nlp_09_alignment.pdf)
+## [09 对齐](../files/2026spring_nlp/09_alignment.pdf)
 * 大模型对齐
 * 强化学习
 * 偏好优化
 * 对齐评测
 
-## [10 推理（Reasoning）](../files/2026spring_nlp_10_reasoning.pdf)
+## [10 推理（Reasoning）](../files/2026spring_nlp/10_reasoning.pdf)
 * 什么是推理模型
 * 推理方式
 * 训练方法
 * 典型模型
 
-## [练习2 - MiniMind：从零训练一个小大语言模型](../files/2026spring_nlp_10.A_practice2.pdf)
+## [练习2 - MiniMind：从零训练一个小大语言模型](../files/2026spring_nlp/10.A_practice2.pdf)
 * Pretrain
 * SFT
 * RL
 * Take Home
 
 # [第三部分 大语言模型应用]
-## [11 RAG](../files/2026spring_nlp_11_rag.pdf)
+## [11 RAG](../files/2026spring_nlp/11_rag.pdf)
 * RAG整体框架
 * 文档处理
 * 文档检索
 * GraphRAG
 
-## [12 智能体](../files/2026spring_nlp_12_agent.pdf)
+## [12 智能体](../files/2026spring_nlp/12_agent.pdf)
 * 什么是Agent
 * 感知
 * 规划
 * 记忆
 * 工具调用
 
-## [13 多智能体](../files/2026spring_nlp_13_multiagent.pdf)
+## [13 多智能体](../files/2026spring_nlp/13_multiagent.pdf)
 * 多智能体概述
 * 多智能体协作
 * 智能体社会仿真
 
-## [练习3 - 试一试智能体框架](../files/2026spring_nlp_13.A_practice3.pdf)
+## [练习3 - 试一试智能体框架](../files/2026spring_nlp/13.A_practice3.pdf)
 * LangChain/LangGraph
 * AgentScope
 * OpenClaw
 * Hermes
 
 # [第四部分 温故知新]
-## [14 Hello again, NLP!](../files/2026spring_nlp_14_hello-again-nlp.pdf)
+## [14 Hello again, NLP!](../files/2026spring_nlp/14_hello-again-nlp.pdf)
 * 文本分类
 * 文本匹配
 * 序列标注
