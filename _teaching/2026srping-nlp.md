@@ -123,7 +123,10 @@ location: "Beijing, China"
 * 文本生成
 
 
-## [15 安全]()
+## [15 安全](../files/2026spring_nlp/2026spring_nlp_15_safety.pdf)
+* 大模型安全概述
+* 大模型内生安全
+* 大模型衍生安全
 
 ## [16 可信]()
 
