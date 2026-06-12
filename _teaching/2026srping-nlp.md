@@ -128,6 +128,7 @@ location: "Beijing, China"
 * 大模型内生安全
 * 大模型衍生安全
 
-## [16 前沿讲座 - JEPA](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
+## [16 前沿讲座1](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
+* 参考：[JEPA](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
 
 ## [17 ]()
