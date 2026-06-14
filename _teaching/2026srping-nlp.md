@@ -128,7 +128,8 @@ location: "Beijing, China"
 * 大模型内生安全
 * 大模型衍生安全
 
-## [16 前沿讲座1](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
-* 参考：[JEPA](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
+## [16 前沿讲座 - 神经-符号计算、世界模型](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
+* 参考：[Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_16_frontier_system2.pdf)
+* 参考：[Word Model](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
 
 ## [17 ]()
