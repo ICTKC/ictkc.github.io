@@ -132,4 +132,8 @@ location: "Beijing, China"
 * 参考：[Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_16_frontier_system2.pdf)
 * 参考：[Word Model](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
 
-## [17 ]()
+## [17 前沿讲座 - 多模态大模型](../files/2026spring_nlp/2026spring_nlp_17_mllm.pdf)
+* 简介
+* 多模态预训练模型
+* 多模态大模型评测
+* 展望
