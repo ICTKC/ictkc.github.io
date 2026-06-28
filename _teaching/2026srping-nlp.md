@@ -136,3 +136,6 @@ location: "Beijing, China"
 ## [17 前沿讲座](../files/2026spring_nlp/2026spring_nlp_17_frontier.pdf)
 * [Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_17_frontier_system2.pdf)
 * [Word Model](../files/2026spring_nlp/2026spring_nlp_17_frontier_jepa.pdf)
+
+## [合影留念](../files/2026spring_nlp/pic_20260628.jpg)
+
