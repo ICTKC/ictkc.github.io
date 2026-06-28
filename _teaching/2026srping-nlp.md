@@ -122,18 +122,17 @@ location: "Beijing, China"
 * 序列标注
 * 文本生成
 
-
 ## [15 安全](../files/2026spring_nlp/2026spring_nlp_15_safety.pdf)
-* 大模型安全概述
-* 大模型内生安全
-* 大模型衍生安全
+* 概述
+* 内生安全
+* 衍生安全
 
-## [16 前沿讲座 - 神经-符号计算、世界模型](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
-* 参考：[Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_16_frontier_system2.pdf)
-* 参考：[Word Model](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
-
-## [17 前沿讲座 - 多模态大模型](../files/2026spring_nlp/2026spring_nlp_17_mllm.pdf)
+## [16 多模态大模型](../files/2026spring_nlp/2026spring_nlp_17_mllm.pdf)
 * 简介
-* 多模态预训练模型
-* 多模态大模型评测
+* 预训练
+* 评测
 * 展望
+
+## [17 前沿讲座](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
+* [Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_16_frontier_system2.pdf)
+* [Word Model](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
