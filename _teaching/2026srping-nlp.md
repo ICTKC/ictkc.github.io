@@ -127,12 +127,12 @@ location: "Beijing, China"
 * 内生安全
 * 衍生安全
 
-## [16 多模态大模型](../files/2026spring_nlp/2026spring_nlp_17_mllm.pdf)
+## [16 多模态大模型](../files/2026spring_nlp/2026spring_nlp_16_mllm.pdf)
 * 简介
 * 预训练
 * 评测
 * 展望
 
-## [17 前沿讲座](../files/2026spring_nlp/2026spring_nlp_16_frontier.pdf)
-* [Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_16_frontier_system2.pdf)
-* [Word Model](../files/2026spring_nlp/2026spring_nlp_16_frontier_jepa.pdf)
+## [17 前沿讲座](../files/2026spring_nlp/2026spring_nlp_17_frontier.pdf)
+* [Neuro-Symbolic AI](../files/2026spring_nlp/2026spring_nlp_17_frontier_system2.pdf)
+* [Word Model](../files/2026spring_nlp/2026spring_nlp_17_frontier_jepa.pdf)
