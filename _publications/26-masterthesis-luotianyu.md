@@ -1,5 +1,5 @@
 ---
-title: "基于图谱补全和过程验证的因果推理研究与应用"
+title: "[硕士论文]基于图谱补全和过程验证的因果推理研究与应用"
 collection: publications
 permalink: /publication/26-masterthesis-luotianyu
 excerpt: ''
