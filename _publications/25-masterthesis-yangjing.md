@@ -1,5 +1,5 @@
 ---
-title: "基于分类和一致性验证的AIGC 文本检测方法研究"
+title: "[硕士论文]基于分类和一致性验证的AIGC 文本检测方法研究"
 collection: publications
 permalink: /publication/25-masterthesis-yangjing
 excerpt: ''
@@ -27,4 +27,4 @@ Abstract
 
 基于结构信息熵的方法在形式语言特征检测方面表现出色，显著提高了检测的准确性和鲁棒性。而基于数学运算和逻辑推理的反事实检测方法有效弥补了功能性语言检测的不足，能够准确识别出AIGC 文本中的逻辑错误和数学漏洞。本研究为AIGC 文本检测提供了新的技术路径，通过形式语言和功能性语言的检测方法，实现了对AIGC 生成文本的全面和准确识别。
 
-[Download](../files/26_罗天宇_基于图谱补全和过程验证的因果推理研究与应用.pdf)
+[Download](../files/25_yangjing.pdf)
