@@ -1,11 +1,11 @@
 ---
-title: "[硕士论文]基于神经符号计算的知识数据融合学习框架研究"
+title: "[硕士论文]基于图谱补全和过程验证的因果推理研究与应用"
 collection: publications
-permalink: /publication/25-masterthesis-sunyanshun
+permalink: /publication/26-masterthesis-luotianyu
 excerpt: ''
 date: 2026-06-30
-venue: '硕士毕业论文'
-citation: '孙严顺: 基于神经符号计算的知识数据融合学习框架研究. 中国科学院计算技术研究所，硕士毕业论文, 2025'
+venue: '硕士毕业论文‘
+citation: '罗天宇: 基于图谱补全和过程验证的因果推理研究与应用. 中国科学院计算技术研究所，硕士毕业论文, 2026'
 ---
 
 Abstract
